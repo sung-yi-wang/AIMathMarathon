@@ -9,3 +9,4 @@ D4. [簡單線性回歸模型]()
 D5. 函數概念、座標圖與線性函數  
 D6. [函數方程式與多項式](https://github.com/sung-yi-wang/AIMathMarathon/tree/main/D006)  
 D7. [三角函數](https://github.com/sung-yi-wang/AIMathMarathon/tree/main/D007)  
+D8. [基礎幾何](https://github.com/sung-yi-wang/AIMathMarathon/tree/main/D008)  

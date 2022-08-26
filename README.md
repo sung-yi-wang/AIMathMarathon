@@ -11,3 +11,6 @@ D6. [函數方程式與多項式](https://github.com/sung-yi-wang/AIMathMarathon
 D7. [三角函數](https://github.com/sung-yi-wang/AIMathMarathon/tree/main/D007)  
 D8. [基礎幾何](https://github.com/sung-yi-wang/AIMathMarathon/tree/main/D008)  
 D9. [指數函數與對數函數](https://github.com/sung-yi-wang/AIMathMarathon/tree/main/D009)  
+D10. 次方與方根  
+## 從機率了解機器學習
+D11. [集合論](https://github.com/sung-yi-wang/AIMathMarathon/tree/main/D011)  

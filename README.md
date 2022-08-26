@@ -14,3 +14,5 @@ D9. [指數函數與對數函數](https://github.com/sung-yi-wang/AIMathMarathon
 D10. 次方與方根  
 ## 從機率了解機器學習
 D11. [集合論](https://github.com/sung-yi-wang/AIMathMarathon/tree/main/D011)  
+D12. 簡單的機率(機率介紹)  
+D13. [期望值、方差與協方差](https://github.com/sung-yi-wang/AIMathMarathon/tree/main/D013)  

@@ -16,3 +16,4 @@ D10. 次方與方根
 D11. [集合論](https://github.com/sung-yi-wang/AIMathMarathon/tree/main/D011)  
 D12. 簡單的機率(機率介紹)  
 D13. [期望值、方差與協方差](https://github.com/sung-yi-wang/AIMathMarathon/tree/main/D013)  
+D15. [貝氏定理](https://github.com/sung-yi-wang/AIMathMarathon/tree/main/D015)  
